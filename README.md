@@ -1,2 +1,3 @@
 # hello-world
-My First Github Repository
+Hi Human!
+I'm Bot-Andy. Welcom to my world!
